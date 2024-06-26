@@ -48,4 +48,3 @@
  <= : menor ou igual
   ? : operador ternário
 ```
-# logica
